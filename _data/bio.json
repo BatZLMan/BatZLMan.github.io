@@ -24,9 +24,8 @@
         "network": "linkedin",
         "username": "Zenan Li",
         "url": "https://www.linkedin.com/in/zenan-li"
-      },
-      },
-    ]
+      }
+    ],
   "interests": [
     {
       "name": "Chess",
@@ -42,12 +41,12 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Travel",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
