@@ -29,6 +29,11 @@
   },
   "interests": [
     {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Chess",
       "keywords": [
       ]
@@ -39,7 +44,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Table Tennis",
       "keywords": [
       ]
     },
