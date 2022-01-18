@@ -121,21 +121,20 @@
       "endDate": "Present",
       "summary": "Managing the financial aspects of the club",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Accounting Club",
+      "website": "https://acuhmanoa.org/",
+      "position": "Director of Public Relations",
+      "startDate": "2021-8-24",
+      "endDate": "2021-12-17",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Organized ten community service events with on-island organizations",
+        "Maintained communications, connections, and partnership with long-time partners of the accounting club",
+        "Donated over a hundred school supplies, toys, books, and art crafts to childrens and teenagers in need"
       ]
     }
   ],
