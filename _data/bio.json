@@ -77,11 +77,12 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Accounting, Finance, and MIS (expected Spring, 2024)",
-      "studyType": "B.B.A.",
+      "studyType": "B.B.A., Bachelor of Business Administration",
       "startDate": "2020-08-24",
       "endDate": "Present",
       "gpa": "4.0",
-      "courses": [
+      "courses": ["Accounting I",
+                  "Statistical Analysis for Business Decisions"
       ]
     }
   ],
