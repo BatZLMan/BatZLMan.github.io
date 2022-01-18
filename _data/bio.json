@@ -76,7 +76,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting, Finance, and MIS (expected Spring, 2024)",
+      "area": "Accounting, Finance, & Management Information Systems (expected Spring, 2024)",
       "studyType": "B.B.A., Bachelor of Business Administration",
       "startDate": "2020-08-24",
       "endDate": "Present",
@@ -114,12 +114,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Accounting Club",
+      "website": "https://acuhmanoa.org/",
+      "position": "Treasurer",
+      "startDate": "2022-1-10",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Managing the financial aspects of the club",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
