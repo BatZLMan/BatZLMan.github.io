@@ -70,6 +70,7 @@
         "MacOS",
         "Windows",
         "Git/GitHub"
+        "UNIX"
       ]
     }
   ],
@@ -141,6 +142,12 @@
       "date": "2017",
       "awarder": "Eddie Aikau Foundation",
       "summary": "I received the award for winning first place in the tenth grade division of the statewide Eddie Aikau Essay Contest."
+    },
+    {
+      "title": "Silver Medalist",
+      "date": "2018",
+      "awarder": "The American Association of Teachers of Spanish and Portuguese",
+      "summary": "I took the second level of National Spanish Exam in 2018 and earned a silver medal for achieving a score of above 80%."
     },
     {
       "title": "Provost Achievement Scholarship Recipient",
