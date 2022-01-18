@@ -122,7 +122,8 @@
         "Donated over one hundred school supplies, toys, books, and art crafts to childrens and teenagers in need"
       ]
     },
-    "organization": "Manoa Scholars Club",
+    {
+      "organization": "Manoa Scholars Club",
       "website": "https://manoascholarsclub.weebly.com/",
       "position": "Membership Coordinator",
       "startDate": "2021-08-24",
@@ -132,6 +133,7 @@
         "Efficiently recording and managing member participation for nearly 200 general members",
         "Successfully hosting large events with colleagues in the Club Senate
       ]
+    }
   ],
   "awards": [
     {
