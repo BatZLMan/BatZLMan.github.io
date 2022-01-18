@@ -88,27 +88,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Mun Lun School",
+      "position": "Chinese teaching assistant",
+      "website": "https://www.munlunschool.org/",
+      "startDate": "2018-08",
+      "endDate": "2018-12",
+      "summary": "I assisted with teaching Chinese to children and teeagers in different Chinese classes, and I also provided technical support to teachers of different Chinese classes.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Successfully ensured the normal teaching of large classes on a daily basis",
+        "Successfully ensured that all students could understand the course content"
       ]
     }
   ],
@@ -117,7 +105,7 @@
       "organization": "Accounting Club",
       "website": "https://acuhmanoa.org/",
       "position": "Treasurer",
-      "startDate": "2022-1-10",
+      "startDate": "2022-01-10",
       "endDate": "Present",
       "summary": "Managing the financial aspects of the club",
     },
@@ -125,13 +113,13 @@
       "organization": "Accounting Club",
       "website": "https://acuhmanoa.org/",
       "position": "Director of Public Relations",
-      "startDate": "2021-8-24",
+      "startDate": "2021-08-24",
       "endDate": "2021-12-17",
-      "summary": "Responsible for creating and coordinating community service events with different on-island organizations for club members to participate",
+      "summary": "Created and coordinated community service events with different on-island organizations for club members to participate",
       "highlights": [
         "Organized ten community service events with on-island organizations",
         "Maintained communications, connections, and partnership with long-time partners of the accounting club",
-        "Donated over a hundred school supplies, toys, books, and art crafts to childrens and teenagers in need"
+        "Donated over one hundred school supplies, toys, books, and art crafts to childrens and teenagers in need"
       ]
     }
   ],
@@ -143,10 +131,10 @@
       "summary": "I received the award for winning first place in the tenth grade division of the statewide Eddie Aikau Essay Contest."
     },
     {
-      "title": "Provost Achievement Scholarship",
+      "title": "Provost Achievement Scholarship Recipient",
       "date": "August 2020 - present",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "A prestigious and competitive scholarship that awards 80 students $10,000 per academic year to help pay for tuition"
+      "awarder": "University of Hawaii",
+      "summary": "A prestigious and competitive scholarship that awards 80 students $10,000 per academic year for up to four years to cover for tuition payments"
     }
   ],
   "references": [
