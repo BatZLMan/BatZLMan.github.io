@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Zenan",
-    "label": "Undergraduate Sophomore",
+    "name": "Zenan Li",
+    "label": "Shidler Undergraduate",
     "picture": "https://BatZLMan.github.io/images/Zenan.Li.jpg",
     "email": "lizenan@hawaii.edu",
     "phone": "808-451-5469",
     "website": "https://BatZLMan.github.io",
-    "summary": "I am studying for a B.A. in Accounting, Finance, and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.B.A. in Accounting, Finance, and Management Information Systems in the Shidler College of Business at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "1240 Puu Poni St.",
       "postalCode": "96782",
@@ -24,9 +24,15 @@
         "network": "linkedin",
         "username": "Zenan Li",
         "url": "https://www.linkedin.com/in/zenan-li"
-      },
+      }
     ]
+  },
   "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
     {
       "name": "Chess",
       "keywords": [
@@ -38,27 +44,23 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Table Tennis",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Travel",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -66,90 +68,98 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "UNIX"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Accounting, Finance, & Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.B.A., Bachelor of Business Administration",
+      "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "4.0",
+      "courses": ["Accounting I",
+                  "Statistical Analysis for Business Decisions"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Mun Lun School",
+      "position": "Chinese teaching assistant",
+      "website": "https://www.munlunschool.org/",
+      "startDate": "2018-08",
+      "endDate": "2018-12",
+      "summary": "I assisted with teaching Chinese to children and teenagers in classroom setting, and I also provided technical support to teachers in different classrooms.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Successfully ensured the normal teaching of large classes on a daily basis",
+        "Successfully ensured that all students could understand the course content"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Accounting Club",
+      "website": "https://acuhmanoa.org/",
+      "position": "Treasurer",
+      "startDate": "2022-01-10",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Managing the financial aspects of the club, which includes filing quarterly and annual tax return forms, creating a club budget each semester, and reimbursing students for their expenditures relating to the club"
+    },
+    {
+      "organization": "Accounting Club",
+      "website": "https://acuhmanoa.org/",
+      "position": "Director of Public Relations",
+      "startDate": "2021-08-24",
+      "endDate": "2021-12-17",
+      "summary": "Created and coordinated community service events with different on-island organizations for club members to participate",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Organized ten community service events with on-island organizations",
+        "Maintained communications, connections, and partnership with long-time partners of the accounting club",
+        "Donated over one hundred school supplies, toys, books, and art crafts to childrens and teenagers in need"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Manoa Scholars Club",
+      "website": "https://manoascholarsclub.weebly.com/",
+      "position": "Membership Coordinator",
+      "startDate": "2021-08-24",
+      "endDate": "Present",
+      "summary": "Working closely with colleagues in the Club Senate to keep track of general members' payments of membership dues and participation in various events while identifying weaknesses and making solid improvements for the club",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Efficiently recording and managing member participation for nearly 200 general members",
+        "Successfully hosting large events with colleagues in the Club Senate"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "First Place Winner",
+      "date": "2017",
+      "awarder": "Eddie Aikau Foundation",
+      "summary": "I received the award for winning first place in the tenth grade division of the statewide Eddie Aikau Essay Contest."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "August 2020 - Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "I have earned a place on the Dean's List for the past three semesters as a result of my hard academic work."
+    },
+    {
+      "title": "Silver Medalist",
+      "date": "2018",
+      "awarder": "The American Association of Teachers of Spanish and Portuguese",
+      "summary": "I took the second level of National Spanish Exam in 2018 and earned a silver medal and certificate for achieving a score of above 80%."
+    },
+    {
+      "title": "Provost Achievement Scholarship Recipient",
+      "date": "August 2020 - present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "I won a prestigious and competitive scholarship that selects 80 rising high school seniors each academic year and awards each recipient $10,000 per academic year for up to four years to cover for tuition payments."
     }
   ],
   "references": [
